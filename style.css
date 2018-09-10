@@ -1,0 +1,13 @@
+.one{
+    color: red;
+    font-style: italic;
+}
+
+.two{
+    color: purple;
+    font-style: inherit;
+}
+
+body{
+    background-color: blanchedalmond;
+}
